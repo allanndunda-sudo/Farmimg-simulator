@@ -3,4 +3,5 @@ class Animal:
         self.name = name
         self.species = species
 
-    
+    def name(self):
+        return self.name
